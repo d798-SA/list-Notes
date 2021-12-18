@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "try play with some React ",
+      "putNote": "lol it's fun",
+      "radio": "good day",
+      "id": 1
+    },
+    {
+      "title": "i spent all my day slept",
+      "putNote": "):",
+      "radio": "sad day",
+      "id": 2
+    },
+    {
+      "title": "i don't know what i will do now",
+      "putNote": "ummmm",
+      "radio": "etc",
+      "id": 3
+    }
+  ]
+}
